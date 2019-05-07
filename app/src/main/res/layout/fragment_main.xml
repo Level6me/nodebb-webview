@@ -17,15 +17,6 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:background="@color/global_bg_front" />
-
-        <com.google.android.gms.ads.AdView
-            android:id="@+id/fragment_main_adview"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            app:adSize="BANNER"
-            app:adUnitId="@string/admob_unit_id" />
-
     </LinearLayout>
 
     <include

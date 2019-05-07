@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App Name -->
-    <string name="app_name" translatable="false">NodeBB Community</string>
+    <string name="app_name" translatable="false">南理CLUB</string>
 
     <!-- Strings -->
-    <string name="global_offline_toast">NO CONNECTION FOUND!</string>
-
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
 
-    <string name="placeholder_empty">Not found!</string>
-    <string name="placeholder_offline">NO CONNECTION FOUND!</string>
+    <string name="placeholder_empty">Error！请点击 nclgclub.com 重新连接！</string>
+    <string name="placeholder_offline">Error！请点击 nclgclub.com 重新连接！</string>
 
-    <string name="fragment_main_downloading">Downloading…</string>
-    
-    <!-- GCM Sender ID -->
-    <string name="gcm_defaultSenderId">674XXXXXXXX</string>
+    <string name="fragment_main_downloading">已加入下载队列</string>
 </resources>

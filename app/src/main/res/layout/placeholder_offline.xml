@@ -17,9 +17,10 @@
             android:layout_marginBottom="@dimen/global_spacing_m"
             android:adjustViewBounds="true"
             android:scaleType="fitCenter"
-            android:src="@drawable/placeholder_offline" />
+            android:src="@drawable/ic_crying" />
 
         <TextView
+            android:autoLink="all|web"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center"
